@@ -66,15 +66,15 @@ Start the Client
 ### One to One chat
 ![](https://github.com/viz-nu/ChitChats_Source_Code/blob/main/ScreenShots/5.jpeg)
 ### Search Users
-![](https://github.com/viz-nu/ChitChats_Source_Code/blob/main/ScreenShots/6jpeg)
+![](https://github.com/viz-nu/ChitChats_Source_Code/blob/main/ScreenShots/6.jpeg)
 ### Create Group Chats
-![](https://github.com/viz-nu/ChitChats_Source_Code/blob/main/ScreenShots/7jpeg)
+![](https://github.com/viz-nu/ChitChats_Source_Code/blob/main/ScreenShots/7.jpeg)
 ### Notifications 
 ![]()
 ### Add or Remove users from group
-![](https://github.com/viz-nu/ChitChats_Source_Code/blob/main/ScreenShots/8jpeg)
+![](https://github.com/viz-nu/ChitChats_Source_Code/blob/main/ScreenShots/8.jpeg)
 ### View Other user Profile
-![](https://github.com/viz-nu/ChitChats_Source_Code/blob/main/ScreenShots/9jpeg)
+![](https://github.com/viz-nu/ChitChats_Source_Code/blob/main/ScreenShots/9.jpeg)
 ## Made By
 
 - [@viz-nu](https://github.com/viz-nu)
