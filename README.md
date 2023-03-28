@@ -70,7 +70,7 @@ Start the Client
 ### Create Group Chats
 ![](https://github.com/viz-nu/ChitChats_Source_Code/blob/main/ScreenShots/7.jpeg)
 ### Notifications 
-![]()
+![](https://github.com/viz-nu/ChitChats_Source_Code/blob/main/ScreenShots/10.jpeg)
 ### Add or Remove users from group
 ![](https://github.com/viz-nu/ChitChats_Source_Code/blob/main/ScreenShots/8.jpeg)
 ### View Other user Profile
